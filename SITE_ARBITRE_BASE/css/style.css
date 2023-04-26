@@ -1,0 +1,23 @@
+html,body {
+	margin:0;
+	padding:0;
+} 
+ 
+#entete{ 
+	background-color:#eb2906;
+} 
+#centre { 
+	overflow:hidden; 
+	width:100%; 
+} 
+#menu { 
+	float:left; 
+	width:300px; 
+} 
+#navigation { 
+	margin-left:300px; 
+	background-color:#e40f0f; 
+} 
+#pied { 
+	background-color:#e61414; 
+}
